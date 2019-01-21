@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zero",
+  "name": "Zero Atmosphere",
+  "description": "Global warming b liek",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["NicosaurusRex99"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
