@@ -1,2 +1,2 @@
 # zero-ozone
-A minecraft mod that simulates no atmosphere
+A minecraft mod that simulates what happens as a result of global warming...
